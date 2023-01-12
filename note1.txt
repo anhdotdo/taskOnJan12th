@@ -1,3 +1,5 @@
-hello world
-Hanoi
-Haiphong
+1. hello world
+2. Hanoi
+3. Haiphong
+4. Danang
+5. Nghean
